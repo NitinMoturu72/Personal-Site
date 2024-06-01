@@ -1,7 +1,7 @@
 # Personal-Site
 The website is built using HTML, CSS, and Bootstrap for responsive design.
 
-# Nitin S. Moturu - Personal Website
+# Nitin Moturu - Personal Website
 
 This repository contains the source code for Nitin S. Moturu's personal website. The website is designed to showcase Nitin's professional skills. It also includes a contact section for visitors to get in touch.
 

@@ -1,0 +1,49 @@
+.background{
+    background-size: 180%;
+    background-color: #244855;
+}
+
+.title{
+    color: #e64833;
+    font-family: Apple Chancery;
+    font-weight: 500;
+}
+
+.title-text{
+    color: #FBE9D0;
+}
+
+.skills-section{
+    background-color:  #90AEAD;
+}
+
+.skills-title{
+    color: #FBE9D0;
+    text-align: center;
+    font-family: Apple Chancery;
+    font-weight: 500;
+}
+
+.skills-section h3{
+    color: #244855;
+}
+
+.contact{
+    background-color: #874F41;
+}
+
+.contact-box{
+    background-color:aqua;
+}
+
+.contact-titletext{
+    color: #244855;
+}
+
+.contact-text{
+    color: #FBE9D0;
+}
+
+.footer{
+    background-color: #ccb5aa;
+}

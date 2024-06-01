@@ -6,7 +6,7 @@ The website is built using HTML, CSS, and Bootstrap for responsive design.
 This repository contains the source code for Nitin S. Moturu's personal website. The website is designed to showcase Nitin's professional skills. It also includes a contact section for visitors to get in touch.
 
 ## Live Demo
-You can visit the live website at [https://nitinmoturu72.github.io/Personal-Site/)
+You can visit the live website at [https://nitinmoturu72.github.io/Personal-Site/]
 
 ## Features
 - **Responsive Design:** Built using Bootstrap to ensure the website is responsive and looks great on all devices.
